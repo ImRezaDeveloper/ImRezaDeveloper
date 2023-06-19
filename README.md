@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
 <h3 align="center">A passionate Web developer from Iran</h3>
-
+<img src='https://camo.githubusercontent.com/40165a147c3dcea0fa1db780bb533fc5f98546ccfb9d5d05ddb2f429277f5348/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966' width='350px' align="right"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrezadeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="imrezadeveloper" /> </p>
 
 - 🌱 I’m currently learning **JavaScript**
