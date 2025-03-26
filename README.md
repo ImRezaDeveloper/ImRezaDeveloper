@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrezadeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="imrezadeveloper" /> </p>
 
-- 🔭 I’m currently working on **natours project**
+- 🔭 I’m currently working on **natours project, coffeeShop project**
 
-- 🌱 I’m currently learning **Ts, node.js, express.js, mongoDB&Redis, Git&GitHub, ... other tools**
+- 🌱 I’m currently learning **Ts, nest.js, node.js, express.js, mongoDB&Redis, Git&GitHub, ... other tools**
 
 - 💬 You can Ask me about **express.js , Ts, Node.js and ...**
 
