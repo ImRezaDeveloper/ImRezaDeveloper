@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rezapapi138418@gmail.com**
 
-- ⚡ Fun fact **Data is everting ;)**
+- ⚡ Fun fact **Data is everything ;)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
