@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **rezapapi138418@gmail.com**
 
-- ⚡ Fun fact **the codes no lie ;)**
+- ⚡ Fun fact **the codes are not tell lie!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
