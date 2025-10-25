@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrezadeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="imrezadeveloper" /> </p>
 
-- 🔭 I’m currently working on **Blog Website**
+- 🔭 I’m currently working on **Personal Project**
 
-- 🌱 I’m currently learning **Django, Fastapi, ...**
+- 🌱 I’m currently learning **DRF, Redis, ...**
 
 - 💬 Ask me about **Backend field**
 
