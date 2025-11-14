@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Personal Project**
 
-- 🌱 I’m currently learning **DRF, Redis, ...**
+- 🌱 I’m currently learning **Go programming language, ...**
 
 - 💬 Ask me about **Backend field**
 
