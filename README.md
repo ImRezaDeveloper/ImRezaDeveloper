@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Reza</h1>
-<h3 align="center">SoftwareEngineer (Backend)</h3>
+<h3 align="center">SoftwareEngineer (student) and Backend Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imrezadeveloper&label=Profile%20views&color=0e75b6&style=flat" alt="imrezadeveloper" /> </p>
 
-- 🔭 I’m currently working on **Personal Project**
+- 🔭 I’m currently working on **Personal Projects**
 
-- 🌱 I’m currently learning **Go programming language, ...**
+- 🌱 I’m currently learning **Go programming language, CI/CD ...**
 
 - 💬 Ask me about **Backend field**
 
